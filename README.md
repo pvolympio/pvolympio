@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/Banner.png" alt="Paulo Olympio — Software Developer" width="100%" />
+</p>
 # Paulo Olympio
 
 ### Software Developer · Backend · Full Stack
