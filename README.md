@@ -125,7 +125,7 @@ User Experience
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge\&logo=vercel)](https://portfolio-paulo-olympio.vercel.app/pt)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo_Olympio-0A66C2?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/pauloolympio-desenvolvedor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo_Olympio-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/pauloolympio-desenvolvedor/)
 
 </div>
 
