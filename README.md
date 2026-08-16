@@ -123,9 +123,9 @@ User Experience
 
 [![GitHub](https://img.shields.io/badge/GitHub-pvolympio-181717?style=for-the-badge\&logo=github)](https://github.com/pvolympio)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge\&logo=vercel)](SEU_LINK_DO_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge\&logo=vercel)](https://portfolio-paulo-olympio.vercel.app/pt)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo_Olympio-0A66C2?style=for-the-badge\&logo=linkedin)](SEU_LINK_DO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo_Olympio-0A66C2?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/pauloolympio-desenvolvedor)
 
 </div>
 
